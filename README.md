@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Girish Ph.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 Check out my portfolio at [https://girishph.netlify.app/](https://girishph.netlify.app/)
+- 👨‍💻 Check out my portfolio at [MyPortfolio](https://girishph.netlify.app/)
 
 - 📫 How to reach me **girishph8@gmail.com**
 
